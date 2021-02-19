@@ -24,16 +24,19 @@
 	    }
 	    .heading1{
 	    	color: yellow;
-	    	margin-top: 25px;
-	    	line-height: 25px;
+	    	margin-top: 35px;
+	    	line-height:35px;
+	    	font-size: 30px;
 	    	
 	    }
 	    button{
-           width:40%;
-           height: 30px;
+           width:90%;
+           height: 50px;
            background-color: yellowgreen;
            margin-top: 5px;
            border-radius: 20px;
+           font-size: 25px;
+           font-weight: bold;
          
 
 
