@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Webdev</title>
-</head>
-<body>
-   <h1>my name is harman</h1>
-</body>
-</html>
